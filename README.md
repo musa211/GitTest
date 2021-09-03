@@ -5,8 +5,8 @@ This is the git workshop
 ## Name
 Musa Jean
 
-'''java
+```java
 
 String str = "Hello world";
 System.out.println(str);
-'''
+```
